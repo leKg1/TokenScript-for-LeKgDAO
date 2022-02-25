@@ -10,7 +10,7 @@ User interface code and business logic is organised in XML declarations for a To
 * [Remix](remix.ethereum.org) is a convenient way to deploy
 
 
-### View in AlphaWallet
+### 2. View in AlphaWallet
 
 To see the default rendering of the contract as a fungible token:
 
@@ -25,7 +25,7 @@ To see the default rendering of the contract as a fungible token:
 * Once you've added the contract address (QR code or otherwise), you should see the token card `LeKgDAO (LKD)`, tagged as `Avalanche FUJI C-Chain`
 
 
-### Generate your own TokenScript
+### 3. Generate your own TokenScript
 
 A really good starting point to generating your own TokenScript (for the 2020/03 schema) is available with this [ABI-to-TokenScript tool](https://alphawallet.github.io/ABI-to-TokenScript/):
 
@@ -47,7 +47,7 @@ Inside you will find:
 In the following section we'll combine these files in the xml.
 
 
-### Combining files and testing
+### 4. Combining files and testing
 
 Disclaimer: iOS users can simply airdrop the set of js/css/xml files to their device.
 

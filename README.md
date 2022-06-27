@@ -1,6 +1,6 @@
 # TokenScript for LeKgDAO
 
-These instructions will help you create a TokenScript interface for your smart contract.
+These instructions will help you create a TokenScript interface for your erc20 smart contract.
 
 User interface code and business logic is organised in XML declarations for a TokenScript engine to render in a mobile wallet. E.g. [AlphaWallet](https://alphawallet.com/).
 

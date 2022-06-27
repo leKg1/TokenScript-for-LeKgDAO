@@ -1,4 +1,4 @@
-# TokenScript for LeKgDAO erc20 governance token
+# TokenScript for LeKgDAO
 
 These instructions will help you create a TokenScript interface for LeKgDAO erc20 governance token.
 
